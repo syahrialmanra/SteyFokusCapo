@@ -7,4 +7,6 @@ Three areas in Git:
 3. Repository History
 
 My notes:
-- (Add your first note here during Module 01)
+Working Directory (Working Tree): This is the actual folder on your computer where you view, create, and edit files in your code editor.
+Index (Staging Area): This is a temporary draft zone stored inside the .git folder that holds the exact snapshot of changes you plan to include in your next commit.
+HEAD (Commit History): This is a pointer to the last commit on your currently checked-out branch
